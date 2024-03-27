@@ -3,24 +3,24 @@ Automatización de un checkout erróneo
 
  Pre requisitos > Instalar, si no se posee:
 
- Visual Studio Code 1.87.2
+ Visual Studio Code 1.87.2 >
    Para todos los OS:
    Descargar el browser a traves de su pagina oficial (https://code.visualstudio.com/download)
  
- Python version 3.11.4
+ Python version 3.11.4 >
    Para Windows:
    Antes de instalar, valide por consola, con el comando 'Python --version' si lo tiene instalado visualizara la version, en su defecto, se visualizara un error.
    Para instalar Python es necesario descargar el ejecutable con la version 3.11.4 desde la pagina oficial (https://www.python.org/downloads/)
    
- pip version 23.1.2
+ pip version 23.1.2 >
    Para Windows:
    PIP se instala con Python, para validar su correcta existencia, utilice el comando 'pip --version'
    
- Selenium version 4.18.1
-   Para WWindows:
+ Selenium version 4.18.1 >
+   Para Windows:
    Por consola escriba el comando 'pip install Selenium'
    
- Chrome version 123.0.6312.58
+ Chrome version 123.0.6312.58 >
    Para todos los OS:
    Descargar el browser a traves de su pagina oficial (https://www.google.com/chrome/)
 
